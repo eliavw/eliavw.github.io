@@ -2,7 +2,6 @@
 layout: post
 title: dog
 subtitle: Charles Bukowski
-cover-img: /assets/img/path.jpg
 tags: [literature, art, quote]
 ---
 
