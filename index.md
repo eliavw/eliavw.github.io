@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Elia Van Wolputte
-subtitle: personal website
+title: Elia
+subtitle: Van Wolputte
 ---
 
