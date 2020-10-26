@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Bio
+subtitle: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Ph.D. student in the DTAI Research Lab at KU Leuven, where I conduct my research under the supervision of prof. Hendrik Blockeel.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My main focus is in the area of ensemble methods, and particularly in developing novel methods with an emphasis on _flexibility_. For instance, our MERCS-framework does not presuppose a predefined prediction task.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
