@@ -1,3 +1,7 @@
+# ReadMe
+
+My personal website, made with `Beautiful Jekyll`, cf. below.
+
 # Beautiful Jekyll
 
 ![Beautiful Jekyll CI](https://github.com/daattali/beautiful-jekyll/workflows/Beautiful%20Jekyll%20CI/badge.svg)
